@@ -1,2 +1,3 @@
-# OpenCV-Python
-book
+# OpenCV programming with Python
+
+_book_
